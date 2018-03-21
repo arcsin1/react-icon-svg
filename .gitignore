@@ -7,7 +7,6 @@ jsconfig.json
 .tags
 .tags1
 __tmp
-dist
 package-lock.json
 tgz
 .vscode
